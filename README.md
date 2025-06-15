@@ -67,6 +67,18 @@ streamlit run main.py
 
 ---
 
+## Configure Environment Variables
+Create a `.env` file in the root directory:
+```
+AWS_ACCESS_KEY_ID=your_key_here
+AWS_SECRET_ACCESS_KEY=your_secret_here
+AWS_REGION=us-east-1
+JWT_SECRET=your_custom_jwt_secret
+BEDROCK_MODEL_ID=amazon.titan-tg1-large
+```
+
+---
+
 ##  Usage
 
 - Visit Streamlit UI
@@ -85,18 +97,6 @@ streamlit run main.py
   - Job match + PDF upload
   - PDF report generation
   - Metrics graph rendering
-
----
-
-## Configure Environment Variables
-Create a `.env` file in the root directory:
-```
-AWS_ACCESS_KEY_ID=your_key_here
-AWS_SECRET_ACCESS_KEY=your_secret_here
-AWS_REGION=us-east-1
-JWT_SECRET=your_custom_jwt_secret
-BEDROCK_MODEL_ID=amazon.titan-tg1-large
-```
 
 ---
 
