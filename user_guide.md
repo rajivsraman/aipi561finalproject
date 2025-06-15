@@ -57,16 +57,11 @@ Welcome to the **Titan Career Assistant**, a comprehensive career coaching platf
 
 ---
 
-##  Pro Tips
+##  Tips
 
 - Be specific with career interests (e.g., "AI Product Management" > "Technology").
 - Use the chat tab to refine job suggestions based on feedback.
 - Combine resume scoring + LinkedIn analysis for the best job-matching results.
-
----
-
-##  Need Help?
-
 - If you encounter issues, ensure your resume is a valid PDF and the server is running locally.
 - For account support or troubleshooting, refer to the `README.md` and `security.md`.
 
