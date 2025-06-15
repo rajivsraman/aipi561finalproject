@@ -1,4 +1,9 @@
-#  Titan Career Coach – AI-Powered Career Assistant
+# AIPI 561 (Operationalizing AI) - Final Project
+### Author: Rajiv Raman
+### Institution: Duke University
+### Date: June 15th, 2025
+
+## Overview
 
 An AI-powered career assistant platform that leverages Amazon Bedrock’s Titan model to help users:
 - Score resumes with AI feedback
