@@ -1,0 +1,26 @@
+# --- Core FastAPI backend ---
+fastapi==0.110.0
+uvicorn==0.27.1
+
+# --- Frontend interface ---
+streamlit==1.35.0
+
+# --- AWS Bedrock + Boto3 for Titan API ---
+boto3==1.34.103
+botocore==1.34.103
+
+# --- Authentication ---
+python-jose==3.3.0
+bcrypt==4.1.2
+passlib[bcrypt]==1.7.4
+
+# --- Forms and CORS ---
+python-multipart==0.0.9
+requests==2.31.0
+aiofiles==23.2.1
+
+# --- Optional: logging or testing ---
+httpx==0.27.0
+
+fpdf
+PyMuPDF
