@@ -33,7 +33,7 @@ Frontend (Streamlit) ---> FastAPI Backend ---> Amazon Bedrock Titan API
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**
 ```bash
