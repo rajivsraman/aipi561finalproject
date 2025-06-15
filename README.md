@@ -5,7 +5,7 @@
 
 ## Overview
 
-An AI-powered career assistant platform that leverages Amazon Bedrock’s Titan model to help users:
+This is an AI-powered career assistant platform that leverages Amazon Bedrock’s Titan model to help users:
 - Score resumes with AI feedback
 - Get job recommendations tailored to interests
 - Analyze LinkedIn profiles
